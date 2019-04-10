@@ -1,0 +1,8 @@
+h1, p {
+  font-family: Lato;
+}
+
+.weight-row {
+  display: flex;
+  flex-direction: row;
+}
